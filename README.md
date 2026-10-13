@@ -106,8 +106,8 @@ Se **todos** os candidatos a pivô forem (praticamente) zero, a matriz é singul
 Requer apenas **Python 3**. Nenhuma instalação adicional.
 
 ```bash
-git clone https://github.com/khaos77/proj-algebra-linear-inversa-escalonamento.git
-cd proj-algebra-linear-inversa-escalonamento
+git clone https://github.com/khaos77/Proj-Algebra-Linear-Inversa-Escalonamento.git
+cd Proj-Algebra-Linear-Inversa-Escalonamento
 python3 inversa_sistema.py
 ```
 
